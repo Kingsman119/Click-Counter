@@ -1,0 +1,33 @@
+body{
+    background-image: linear-gradient(to right, red, orange, indigo, violet);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+
+p{
+    font-size: 60px;
+    font-weight: 900;
+}
+
+#display{
+    font-size: 100px;
+    font-weight: 900;
+}
+
+#btn1,
+#btn2,
+#btn3{
+    height: 50px;
+    width: 290px;
+    background-image: linear-gradient(to right, black,grey);
+    color: white;
+    font-size: 22px;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+    border: 3px solid white;
+    box-shadow: 5px 5px;
+    border-radius: 20px;
+}
